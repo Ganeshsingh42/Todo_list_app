@@ -19,7 +19,7 @@ A simple command-line To-Do List application written in Python. This application
 
 2. **Clone the Repository**:
    ```bash
-   git clone https://github.com/your-username/todo-list-app.git
+   git clone https://github.com/Ganeshsingh42/todo-list-app.git
    cd todo-list-app
 ## Run the Application:
 - python todo_list.py
